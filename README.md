@@ -1,3 +1,2 @@
-                                                                Data Science
+This is tutorial for data science beginners student step by step
 
-                                    I am start working on Data Science project which is mainly useful for beginners.
